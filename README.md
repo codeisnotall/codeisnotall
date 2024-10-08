@@ -8,12 +8,6 @@ With over 8 years of experience as a Software Engineer, I'm on a mission to crea
 
 ---
 
-<h3 align="left">Activity:</h3>
-
-[![codeisnotall's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codeisnotall&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/codeisnotall/github-readme-activity-graph)
-
-
-
  <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
